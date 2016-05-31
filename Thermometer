@@ -3,6 +3,7 @@
 
  Ecrit le 19 fevrier 2016
  par Yi Hui Luo 403
+ Inspire du Arduino Projects Book
 
  Note : les phrases precedees de "//" ou de "/*" sont ignorees par l'Arduino
         elles servent a communiquer avec d'autres humains qui lisent le programme
